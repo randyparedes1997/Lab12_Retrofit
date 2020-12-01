@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab12 Retrofit</string>
+    <string name="btnAddText">Add</string>
+    <string name="chkCompleteText">Completed</string>
+    <string name="tietTitleHint">Title</string>
+    <string name="tvTitleAddToDoText">Add ToDo</string>
+    <string name="tietUserIdHint">User ID</string>
+    <string name="btnDeleteToDoText">Delete</string>
+    <string name="btnUpdateToDoText">Update</string>
+    <string name="tvTitleDetailToDoText">Detail ToDo</string>
+    <string name="completed">Completed</string>
+    <string name="uncompleted">Uncompleted</string>
+    <string name="loadToDos">Load ToDos</string>
+    <string name="addToDo">Adding ToDo</string>
+    <string name="addToDoSuccessfully">ToDo added correctly</string>
+    <string name="addToDoUnsuccessfully">ToDo could not be added</string>
+    <string name="loadToDoUnsuccessfully">ToDo could not be loaded</string>
+    <string name="retroError">RetroError</string>
+    <string name="loadTodo">Loading ToDo</string>
+    <string name="updateToDoUnsuccessfully">ToDo could not be updated</string>
+    <string name="updateToDoSuccessfully">ToDo updated correctly</string>
+    <string name="updatingToDo">Updating ToDo</string>
+    <string name="deleteToDoSuccessfully">ToDo removed correctly</string>
+    <string name="deleteToDoUnsuccessfully">ToDo could not be removed</string>
+    <string name="deletingToDo">Removing ToDo</string>
+    <string name="loadToDosUnsuccessfully">Data could not be loaded</string>
+    <string name="userId">"User ID: "</string>
+    <string name="errorUserIdEmpty">Enter a User ID</string>
+    <string name="errorTitleEmpty">Enter a Title</string>
+    <string name="ok">OK</string>
+    <string name="result">Result</string>
+</resources>
